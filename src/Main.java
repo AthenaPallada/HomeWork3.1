@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        //Задание 1
+        // Задание 1
         System.out.println("Задание 1");
         int age = 23;
         if(age >= 18) {
@@ -9,7 +9,7 @@ public class Main {
             System.out.println("Возраст совершеннолетия ещё не наступил, и нужно немного подождать)");
         }
 
-        //Задание 2
+        // Задание 2
         System.out.println("Задание 2");
         if (age >= 7 && age < 18) {
             System.out.println("Ребенок ходит в школу!");
@@ -19,7 +19,7 @@ public class Main {
             System.out.println("Человек окончил университет и ищет первую работу или работает");
         }
 
-        //Задание 3
+        // Задание 3
         System.out.println("Задание 3");
         int tonnage1Wagon = 102;
         int seats = 60;
